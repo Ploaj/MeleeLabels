@@ -1,0 +1,127 @@
+highpoly:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+lowpoly:
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 28
+- 29
+- 30
+- 31
+metalpoly:
+objects:
+- position: 0
+  count: 1
+  joint: 0
+- position: 1
+  count: 1
+  joint: 0
+- position: 2
+  count: 1
+  joint: 0
+- position: 3
+  count: 1
+  joint: 0
+- position: 4
+  count: 1
+  joint: 0
+- position: 5
+  count: 1
+  joint: 0
+- position: 6
+  count: 1
+  joint: 0
+- position: 7
+  count: 1
+  joint: 0
+- position: 8
+  count: 1
+  joint: 0
+- position: 9
+  count: 1
+  joint: 0
+- position: 10
+  count: 1
+  joint: 0
+- position: 11
+  count: 1
+  joint: 0
+- position: 12
+  count: 1
+  joint: 0
+- position: 13
+  count: 1
+  joint: 0
+- position: 14
+  count: 1
+  joint: 0
+- position: 15
+  count: 1
+  joint: 0
+- position: 16
+  count: 1
+  joint: 0
+- position: 17
+  count: 1
+  joint: 0
+- position: 18
+  count: 1
+  joint: 0
+- position: 19
+  count: 1
+  joint: 0
+- position: 20
+  count: 1
+  joint: 0
+- position: 21
+  count: 1
+  joint: 0
+- position: 22
+  count: 1
+  joint: 15
+- position: 23
+  count: 1
+  joint: 15
+- position: 24
+  count: 1
+  joint: 15
+- position: 25
+  count: 1
+  joint: 15
+- position: 26
+  count: 1
+  joint: 15
+- position: 27
+  count: 1
+  joint: 15
+- position: 28
+  count: 1
+  joint: 17
+- position: 29
+  count: 1
+  joint: 20
+- position: 30
+  count: 1
+  joint: 36
+- position: 31
+  count: 1
+  joint: 44
+positions:

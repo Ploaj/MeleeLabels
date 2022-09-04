@@ -1,0 +1,39 @@
+highpoly:
+- 0
+- 4
+- 5
+- 6
+- 7
+lowpoly:
+- 0
+- 4
+- 5
+- 6
+- 7
+metalpoly:
+objects:
+- position: 0
+  count: 1
+  joint: 0
+- position: 1
+  count: 0
+  joint: 0
+- position: 2
+  count: 0
+  joint: 0
+- position: 3
+  count: 0
+  joint: 0
+- position: 4
+  count: 1
+  joint: 0
+- position: 5
+  count: 1
+  joint: 0
+- position: 6
+  count: 1
+  joint: 0
+- position: 7
+  count: 1
+  joint: 0
+positions:

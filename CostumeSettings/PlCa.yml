@@ -1,0 +1,331 @@
+highpoly:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 22
+- 23
+- 24
+- 25
+- 26
+- 27
+- 28
+- 29
+- 30
+- 31
+- 32
+- 33
+- 65
+- 66
+- 67
+- 68
+- 70
+- 71
+- 72
+- 73
+- 77
+- 78
+lowpoly:
+- 34
+- 35
+- 36
+- 37
+- 38
+- 39
+- 40
+- 41
+- 42
+- 43
+- 44
+- 45
+- 46
+- 47
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+- 54
+- 55
+- 56
+- 57
+- 58
+- 59
+- 60
+- 61
+- 62
+- 63
+- 64
+- 69
+- 74
+- 75
+- 76
+metalpoly:
+- 28
+- 29
+- 30
+- 70
+- 68
+- 71
+- 72
+- 73
+- 77
+- 78
+objects:
+- position: 0
+  count: 1
+  joint: 0
+- position: 1
+  count: 2
+  joint: 0
+- position: 2
+  count: 2
+  joint: 0
+- position: 3
+  count: 1
+  joint: 0
+- position: 4
+  count: 2
+  joint: 0
+- position: 5
+  count: 2
+  joint: 0
+- position: 6
+  count: 2
+  joint: 0
+- position: 7
+  count: 2
+  joint: 0
+- position: 8
+  count: 2
+  joint: 0
+- position: 9
+  count: 2
+  joint: 0
+- position: 10
+  count: 2
+  joint: 0
+- position: 11
+  count: 1
+  joint: 0
+- position: 12
+  count: 2
+  joint: 0
+- position: 13
+  count: 2
+  joint: 0
+- position: 14
+  count: 1
+  joint: 0
+- position: 15
+  count: 2
+  joint: 0
+- position: 16
+  count: 2
+  joint: 0
+- position: 17
+  count: 2
+  joint: 0
+- position: 18
+  count: 2
+  joint: 0
+- position: 19
+  count: 0
+  joint: 0
+- position: 20
+  count: 2
+  joint: 0
+- position: 21
+  count: 1
+  joint: 0
+- position: 22
+  count: 0
+  joint: 0
+- position: 23
+  count: 2
+  joint: 0
+- position: 24
+  count: 2
+  joint: 0
+- position: 25
+  count: 1
+  joint: 0
+- position: 26
+  count: 1
+  joint: 0
+- position: 27
+  count: 1
+  joint: 0
+- position: 28
+  count: 1
+  joint: 0
+- position: 29
+  count: 2
+  joint: 0
+- position: 30
+  count: 1
+  joint: 0
+- position: 31
+  count: 1
+  joint: 0
+- position: 32
+  count: 1
+  joint: 0
+- position: 33
+  count: 1
+  joint: 0
+- position: 34
+  count: 1
+  joint: 0
+- position: 35
+  count: 1
+  joint: 0
+- position: 36
+  count: 1
+  joint: 0
+- position: 37
+  count: 1
+  joint: 0
+- position: 38
+  count: 1
+  joint: 0
+- position: 39
+  count: 1
+  joint: 0
+- position: 40
+  count: 1
+  joint: 0
+- position: 41
+  count: 1
+  joint: 0
+- position: 42
+  count: 1
+  joint: 0
+- position: 43
+  count: 1
+  joint: 0
+- position: 44
+  count: 1
+  joint: 0
+- position: 45
+  count: 1
+  joint: 0
+- position: 46
+  count: 1
+  joint: 0
+- position: 47
+  count: 1
+  joint: 0
+- position: 48
+  count: 1
+  joint: 0
+- position: 49
+  count: 1
+  joint: 0
+- position: 50
+  count: 1
+  joint: 0
+- position: 51
+  count: 1
+  joint: 0
+- position: 52
+  count: 1
+  joint: 0
+- position: 53
+  count: 1
+  joint: 0
+- position: 54
+  count: 1
+  joint: 0
+- position: 55
+  count: 1
+  joint: 0
+- position: 56
+  count: 1
+  joint: 0
+- position: 57
+  count: 1
+  joint: 0
+- position: 58
+  count: 0
+  joint: 0
+- position: 59
+  count: 1
+  joint: 0
+- position: 60
+  count: 1
+  joint: 0
+- position: 61
+  count: 1
+  joint: 0
+- position: 62
+  count: 1
+  joint: 0
+- position: 63
+  count: 1
+  joint: 0
+- position: 64
+  count: 1
+  joint: 0
+- position: 65
+  count: 1
+  joint: 0
+- position: 66
+  count: 1
+  joint: 0
+- position: 67
+  count: 1
+  joint: 0
+- position: 68
+  count: 1
+  joint: 4
+- position: 69
+  count: 1
+  joint: 4
+- position: 70
+  count: 1
+  joint: 5
+- position: 71
+  count: 1
+  joint: 5
+- position: 72
+  count: 1
+  joint: 5
+- position: 73
+  count: 1
+  joint: 5
+- position: 74
+  count: 1
+  joint: 5
+- position: 75
+  count: 1
+  joint: 43
+- position: 76
+  count: 1
+  joint: 43
+- position: 77
+  count: 2
+  joint: 43
+- position: 78
+  count: 1
+  joint: 43
+positions:

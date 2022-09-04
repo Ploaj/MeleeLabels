@@ -1,0 +1,514 @@
+highpoly:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 22
+- 23
+- 24
+- 25
+- 26
+- 27
+- 28
+- 101
+- 102
+- 104
+- 105
+- 107
+- 108
+- 110
+- 111
+- 113
+- 114
+lowpoly:
+- 29
+- 30
+- 31
+- 32
+- 33
+- 34
+- 35
+- 36
+- 37
+- 38
+- 39
+- 40
+- 41
+- 42
+- 43
+- 44
+- 45
+- 46
+- 47
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+- 54
+- 55
+- 56
+- 57
+- 58
+- 59
+- 60
+- 61
+- 62
+- 63
+- 64
+- 100
+- 103
+- 106
+- 109
+- 112
+metalpoly:
+- 101
+- 102
+- 104
+- 105
+- 107
+- 108
+- 110
+- 111
+- 113
+- 114
+objects:
+- position: 0
+  count: 1
+  joint: 0
+- position: 1
+  count: 2
+  joint: 0
+- position: 2
+  count: 1
+  joint: 0
+- position: 3
+  count: 1
+  joint: 0
+- position: 4
+  count: 1
+  joint: 0
+- position: 5
+  count: 1
+  joint: 0
+- position: 6
+  count: 1
+  joint: 0
+- position: 7
+  count: 2
+  joint: 0
+- position: 8
+  count: 1
+  joint: 0
+- position: 9
+  count: 1
+  joint: 0
+- position: 10
+  count: 1
+  joint: 0
+- position: 11
+  count: 1
+  joint: 0
+- position: 12
+  count: 1
+  joint: 0
+- position: 13
+  count: 1
+  joint: 0
+- position: 14
+  count: 1
+  joint: 0
+- position: 15
+  count: 1
+  joint: 0
+- position: 16
+  count: 1
+  joint: 0
+- position: 17
+  count: 2
+  joint: 0
+- position: 18
+  count: 1
+  joint: 0
+- position: 19
+  count: 2
+  joint: 0
+- position: 20
+  count: 1
+  joint: 0
+- position: 21
+  count: 1
+  joint: 0
+- position: 22
+  count: 1
+  joint: 0
+- position: 23
+  count: 2
+  joint: 0
+- position: 24
+  count: 1
+  joint: 0
+- position: 25
+  count: 1
+  joint: 0
+- position: 26
+  count: 2
+  joint: 0
+- position: 27
+  count: 2
+  joint: 0
+- position: 28
+  count: 1
+  joint: 0
+- position: 29
+  count: 1
+  joint: 0
+- position: 30
+  count: 1
+  joint: 0
+- position: 31
+  count: 0
+  joint: 0
+- position: 32
+  count: 1
+  joint: 0
+- position: 33
+  count: 1
+  joint: 0
+- position: 34
+  count: 1
+  joint: 0
+- position: 35
+  count: 1
+  joint: 0
+- position: 36
+  count: 1
+  joint: 0
+- position: 37
+  count: 1
+  joint: 0
+- position: 38
+  count: 1
+  joint: 0
+- position: 39
+  count: 0
+  joint: 0
+- position: 40
+  count: 1
+  joint: 0
+- position: 41
+  count: 1
+  joint: 0
+- position: 42
+  count: 1
+  joint: 0
+- position: 43
+  count: 1
+  joint: 0
+- position: 44
+  count: 1
+  joint: 0
+- position: 45
+  count: 1
+  joint: 0
+- position: 46
+  count: 1
+  joint: 0
+- position: 47
+  count: 1
+  joint: 0
+- position: 48
+  count: 1
+  joint: 0
+- position: 49
+  count: 1
+  joint: 0
+- position: 50
+  count: 1
+  joint: 0
+- position: 51
+  count: 1
+  joint: 0
+- position: 52
+  count: 1
+  joint: 0
+- position: 53
+  count: 1
+  joint: 0
+- position: 54
+  count: 1
+  joint: 0
+- position: 55
+  count: 1
+  joint: 0
+- position: 56
+  count: 1
+  joint: 0
+- position: 57
+  count: 1
+  joint: 0
+- position: 58
+  count: 1
+  joint: 0
+- position: 59
+  count: 1
+  joint: 0
+- position: 60
+  count: 1
+  joint: 0
+- position: 61
+  count: 1
+  joint: 0
+- position: 62
+  count: 1
+  joint: 0
+- position: 63
+  count: 1
+  joint: 0
+- position: 64
+  count: 1
+  joint: 0
+- position: 65
+  count: 1
+  joint: 23
+- position: 66
+  count: 1
+  joint: 23
+- position: 67
+  count: 1
+  joint: 23
+- position: 68
+  count: 1
+  joint: 23
+- position: 69
+  count: 1
+  joint: 23
+- position: 70
+  count: 1
+  joint: 23
+- position: 71
+  count: 1
+  joint: 23
+- position: 72
+  count: 1
+  joint: 23
+- position: 73
+  count: 1
+  joint: 23
+- position: 74
+  count: 1
+  joint: 23
+- position: 75
+  count: 1
+  joint: 23
+- position: 76
+  count: 1
+  joint: 23
+- position: 77
+  count: 1
+  joint: 23
+- position: 78
+  count: 1
+  joint: 23
+- position: 79
+  count: 2
+  joint: 23
+- position: 80
+  count: 2
+  joint: 23
+- position: 81
+  count: 2
+  joint: 23
+- position: 82
+  count: 1
+  joint: 23
+- position: 83
+  count: 1
+  joint: 23
+- position: 84
+  count: 2
+  joint: 23
+- position: 85
+  count: 2
+  joint: 23
+- position: 86
+  count: 0
+  joint: 23
+- position: 87
+  count: 2
+  joint: 23
+- position: 88
+  count: 1
+  joint: 23
+- position: 89
+  count: 2
+  joint: 23
+- position: 90
+  count: 2
+  joint: 23
+- position: 91
+  count: 2
+  joint: 23
+- position: 92
+  count: 1
+  joint: 23
+- position: 93
+  count: 2
+  joint: 23
+- position: 94
+  count: 2
+  joint: 23
+- position: 95
+  count: 1
+  joint: 23
+- position: 96
+  count: 2
+  joint: 23
+- position: 97
+  count: 2
+  joint: 23
+- position: 98
+  count: 2
+  joint: 23
+- position: 99
+  count: 2
+  joint: 23
+- position: 100
+  count: 1
+  joint: 33
+- position: 101
+  count: 0
+  joint: 33
+- position: 102
+  count: 1
+  joint: 33
+- position: 103
+  count: 1
+  joint: 44
+- position: 104
+  count: 0
+  joint: 44
+- position: 105
+  count: 1
+  joint: 44
+- position: 106
+  count: 1
+  joint: 57
+- position: 107
+  count: 0
+  joint: 57
+- position: 108
+  count: 1
+  joint: 57
+- position: 109
+  count: 1
+  joint: 60
+- position: 110
+  count: 0
+  joint: 60
+- position: 111
+  count: 1
+  joint: 60
+- position: 112
+  count: 1
+  joint: 72
+- position: 113
+  count: 0
+  joint: 72
+- position: 114
+  count: 1
+  joint: 72
+positions:
+- name: Object_0_1_0
+  position: 78
+- name: Object_0_1_1
+  position: 79
+- name: Object_0_1_2
+  position: 80
+- name: Object_0_1_3
+  position: 81
+- name: Object_0_1_4
+  position: 82
+- name: Object_0_1_5
+  position: 83
+- name: Object_0_1_6
+  position: 84
+- name: Object_0_1_7
+  position: 85
+- name: Object_0_1_8
+  position: 86
+- name: Object_0_1_9
+  position: 87
+- name: Object_0_1_10
+  position: 88
+- name: Object_0_1_11
+  position: 89
+- name: Object_0_1_12
+  position: 90
+- name: Object_0_1_13
+  position: 91
+- name: Object_0_1_14
+  position: 92
+- name: Object_0_1_15
+  position: 93
+- name: Object_0_1_16
+  position: 94
+- name: Object_0_1_17
+  position: 95
+- name: Object_0_1_18
+  position: 96
+- name: Object_0_1_19
+  position: 97
+- name: Object_0_1_20
+  position: 98
+- name: Object_0_1_21
+  position: 99
+- name: Object_0_1_0_LOW
+  position: 65
+- name: Object_0_1_1_LOW
+  position: 66
+- name: Object_0_1_2_LOW
+  position: 67
+- name: Object_0_1_3_LOW
+  position: 68
+- name: Object_0_1_4_LOW
+  position: 69
+- name: Object_0_1_5_LOW
+  position: 70
+- name: Object_0_1_6_LOW
+  position: 71
+- name: Object_0_1_7_LOW
+  position: 72
+- name: Object_0_1_8_LOW
+  position: 73
+- name: Object_0_1_9_LOW
+  position: 74
+- name: Object_0_1_10_LOW
+  position: 75
+- name: Object_0_1_11_LOW
+  position: 76
+- name: Object_0_1_12_LOW
+  position: 77
+- name: MatAnim_0
+  position: 16
+- name: MatAnim_1
+  position: 22
